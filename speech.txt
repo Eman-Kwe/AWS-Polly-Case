@@ -1,0 +1,4 @@
+Welcome to Pixel Learning Co. This module introduces the fundamentals
+of accessible course design. Audio versions of all lessons are generated
+automatically to ensure every student can engage with content in the
+format that works best for them.
